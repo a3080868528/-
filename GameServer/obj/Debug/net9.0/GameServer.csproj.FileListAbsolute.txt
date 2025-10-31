@@ -1,0 +1,7 @@
+D:\GameServer\obj\Debug\net9.0\GameServer.csproj.AssemblyReference.cache
+D:\GameServer\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\GameServer\obj\Debug\net9.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameServer\obj\Debug\net9.0\GameServer.AssemblyInfoInputs.cache
+D:\GameServer\obj\Debug\net9.0\GameServer.AssemblyInfo.cs
+D:\GameServer\obj\Debug\net9.0\GameServer.csproj.CoreCompileInputs.cache
+D:\GameServer\obj\Debug\net9.0\GameServer.MvcApplicationPartsAssemblyInfo.cache
